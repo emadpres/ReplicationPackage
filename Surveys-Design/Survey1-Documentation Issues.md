@@ -6,15 +6,27 @@
 #### Correctness
 ▢	Erroneous code examples
 
+    A given code example is faulty and doesn't work (e.g., syntax errors, semantic errors)
+
 ▢	Faulty tutorial
+
+    Tutorial is faulty and needs to be fixed
 
 ▢	Inappropriate installation instructions
 
+    Installation process is described Improperly
+
 ▢	Wrong code comments
+
+    Code comment is wrong (note that this is different from outdated or missing code comments, see Up-to-dateness and Completeness below)
 
 ▢	Wrong translation
 
+    Translation is wrong (note that this is different from outdated or missing translation, see Up-to-dateness and Completeness below)
+
 ▢	Other Correctness issues
+
+    Any other type of 'Correctness' issues which is not among the choices above
 
 #### Completeness
 ▢	Developer guidelines
